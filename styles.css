@@ -246,3 +246,16 @@ input[type=text], select, textarea {
       margin-top: 0;
     }
   }
+
+  .feature-section{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+  }
+  .feature{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;  
+  }
